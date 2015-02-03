@@ -1,0 +1,8 @@
+c:\users\phil\documents\visual studio 2013\Projects\DomainEvents\EventsSample\bin\Debug\EventsSample.exe.config
+c:\users\phil\documents\visual studio 2013\Projects\DomainEvents\EventsSample\bin\Debug\EventsSample.exe
+c:\users\phil\documents\visual studio 2013\Projects\DomainEvents\EventsSample\bin\Debug\EventsSample.pdb
+c:\users\phil\documents\visual studio 2013\Projects\DomainEvents\EventsSample\bin\Debug\Ninject.dll
+c:\users\phil\documents\visual studio 2013\Projects\DomainEvents\EventsSample\bin\Debug\Ninject.xml
+c:\users\phil\documents\visual studio 2013\Projects\DomainEvents\EventsSample\obj\Debug\EventsSample.csprojResolveAssemblyReference.cache
+c:\users\phil\documents\visual studio 2013\Projects\DomainEvents\EventsSample\obj\Debug\EventsSample.exe
+c:\users\phil\documents\visual studio 2013\Projects\DomainEvents\EventsSample\obj\Debug\EventsSample.pdb
